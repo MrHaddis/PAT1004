@@ -21,6 +21,9 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aTUvNO4qoABd7ZhAEBbNVwlfOA" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -28,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PAT1005" />
@@ -123,7 +127,7 @@
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
-    <configuration name="demo1004" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo1004" TARGET_NAME="demo1004" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="demo1004" RUN_TARGET_NAME="demo1004">
+    <configuration name="demo1004" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PAT1004" TARGET_NAME="demo1004" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PAT1004" RUN_TARGET_NAME="demo1004">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -169,6 +173,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="558" y="41" key="CommitChangelistDialog2" timestamp="1591857419234">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="558" y="41" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1591857419234" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1591836956181">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

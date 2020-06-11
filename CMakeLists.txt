@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(demo1004 C)
+project(PAT1004 C)
 
 set(CMAKE_C_STANDARD 99)
 
